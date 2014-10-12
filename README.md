@@ -5,7 +5,7 @@ A game made for Ludum Dare 26
 
 
 
-Controlls: 
+## Controlls: 
 A, D and Space for jetpack. 
 OR 
 Left Arrow, and Right arrow, with Up arrow as jetpack 
@@ -17,7 +17,7 @@ Enter will reset the level
 
 
 
-How to Play! 
+## How to Play! 
 
 Each purple tile has a tune to it, and so does every door (brown tile). 
 
@@ -32,6 +32,6 @@ The door is only unlocked once the Tune is pressed, and if the door hears a diff
 
 
 
-The game can be found here:
+## Download
 
 http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=10780
